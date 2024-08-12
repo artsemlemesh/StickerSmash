@@ -11,4 +11,3 @@ export default function EmojiSticker({ imageSize, stickerSource }) {
     </View>
   );
 }
-f
